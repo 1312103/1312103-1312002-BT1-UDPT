@@ -10,7 +10,7 @@ URL: **URL hosting của bài tập**
 
 Yêu cầu **GIT**:
 
-* [ *] Có sử dụng GIT.
+* [ ] Có sử dụng GIT.
 * [ ] Sử dụng GIT trên 1 branch.
 * [ ] Sử dụng GIT theo Centralized Workflow.
 * [ ] Sử dụng GIT theo Feature Branch Workflow.
@@ -24,10 +24,10 @@ Yêu cầu **thiết kế**:
     * [*] Navigation, header, footer, sidebar.
     * [*] Các hiệu ứng: hover, focus,...
 * [ *] Thiết kế chạy trên nhiều trình duyệt
-    * [ *] IE
-    * [ *] Firefox
-    * [* ] Chrome
-    * [* ] Icon, màu sắc,...
+    * [x] IE
+    * [x] Firefox
+    * [x] Chrome
+    * [x] Icon, màu sắc,...
 * [ ] Thiết kế responsive
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
@@ -38,9 +38,6 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 Link ảnh GIF demo ứng dụng:
 
 ![Video Walkthrough](demo.gif)
-
-Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
-
 
 ## License
 
