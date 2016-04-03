@@ -4,7 +4,7 @@
 
 Thành viên: **1312103-Lê Thái Dương**
 			**1312002-Diệp Hoàng Anh**
-URL: **URL hosting của bài tập**
+URL: **http://udpt103-002.16mb.com/**
 
 ## Yêu cầu
 
